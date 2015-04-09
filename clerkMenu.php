@@ -47,7 +47,13 @@
                                 <li><a href="./appointments.php"> View Appointments</a></li>
                             </ul>
                         </li>
-                        <li><a class="ajax-link" href="./patients.php"><i class="glyphicon glyphicon-user"></i><span> Patients</span></a></li>
+                        <li class="accordion">
+                            <a href="#"><i class="glyphicon glyphicon-calendar"></i><span> Patients</span></a>
+                            <ul class="nav nav-pills nav-stacked">
+                                <li><a href="./patients.create.php"> Add Patient</a></li>
+                                <li><a href="./patients.php"> Search Patients</a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
             </div>
