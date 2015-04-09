@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/"><span>A.H.S.</span></a>
+        <a class="navbar-brand" href="/"><span>HIMS</span></a>
 
         <!-- user dropdown starts -->
         <div class="btn-group pull-right">

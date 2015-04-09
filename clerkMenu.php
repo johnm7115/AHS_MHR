@@ -48,7 +48,7 @@
                             </ul>
                         </li>
                         <li class="accordion">
-                            <a href="#"><i class="glyphicon glyphicon-calendar"></i><span> Patients</span></a>
+                            <a href="#"><i class="glyphicon glyphicon-user"></i><span> Patients</span></a>
                             <ul class="nav nav-pills nav-stacked">
                                 <li><a href="./patients.create.php"> Add Patient</a></li>
                                 <li><a href="./patients.php"> Search Patients</a></li>

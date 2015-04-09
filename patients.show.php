@@ -14,15 +14,11 @@ include_once 'menu.php';
     <ul class="breadcrumb">
         <li><a href="./home.php">Home</a></li>
         <li><a href="./patients.php">Patients</a></li>
+        <li><a href="./patients.show.php">View</a></li>
     </ul>
 </div>
-
 <div class="row">
-    <p class="col-md-6">
-        Search for a Patient
-        <input class="form-control" value="">
-        <a class="btn btn-primary" href="./patients.show.php">Search</a>
-    </p>
+    
 </div>
 <?php
 include_once 'footer.php';
