@@ -21,7 +21,7 @@
                 <!--<li><a href="accountsettings">Account Settings</a></li>
                 <li><a href="#">Notification Settings</a></li>-->
                 <li class="divider"></li>
-                <li><a href="logout">Logout</a></li>
+                <li><a href="logout.php">Logout</a></li>
             </ul>
         </div>
         <!-- user dropdown ends -->
