@@ -47,7 +47,7 @@
                                 <li><a href="./appointments.php"> View Appointments</a></li>
                             </ul>
                         </li>
-                        <li><a class="ajax-link" href="/patients"><i class="glyphicon glyphicon-user"></i><span> Patients</span></a></li>
+                        <li><a class="ajax-link" href="./patients.php"><i class="glyphicon glyphicon-user"></i><span> Patients</span></a></li>
                     </ul>
                 </div>
             </div>
