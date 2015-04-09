@@ -5,7 +5,7 @@
     if($_SERVER['REQUEST_METHOD'] === 'POST')
     {
         // Add more as avalible
-        $allowedUsernames = array("clerk");
+        $allowedUsernames = array("clerk", "assistant", "professional");
         
         if(in_array(strtolower($_POST["username"]), $allowedUsernames))
         {
@@ -35,6 +35,6 @@
             <input type="password" name="password">
             <input type="submit" value="Submit">
         </form>
-        <p>Use username {clerk, ...} and any password to login.</p>
+        <p>Use username {clerk, assistant, professional, ...} and any password to login.</p>
     </body>
 </html>
