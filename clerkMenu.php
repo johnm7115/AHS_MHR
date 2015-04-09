@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/"><span>A.H.S.</span></a>
+        <a class="navbar-brand" href="/"><span>HIMS</span></a>
 
         <!-- user dropdown starts -->
         <div class="btn-group pull-right">
@@ -43,8 +43,8 @@
                         <li class="accordion">
                             <a href="#"><i class="glyphicon glyphicon-calendar"></i><span> Appointments</span></a>
                             <ul class="nav nav-pills nav-stacked">
-                                <li><a href="./appointments.create.php"> Create Appointment</a></li>
-                                <li><a href="./appointments.php"> View Appointments</a></li>
+                                <li><a href="./appointments.create.php">New Appointment</a></li>
+                                <li><a href="./appointments.php">All Appointments</a></li>
                             </ul>
                         </li>
                         <li class="accordion">
