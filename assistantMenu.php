@@ -7,13 +7,13 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/"><span>HIMS</span></a>
+        <a class="navbar-brand" href="/"><span>A.H.S.</span></a>
 
         <!-- user dropdown starts -->
         <div class="btn-group pull-right">
             <button class="btn btn-default dropdown-toggle" data-toggle="dropdown">
                 <i class="glyphicon glyphicon-user"></i>
-                <span class="hidden-xs"> Medical Clerk</span>
+                <span class="hidden-xs"> Medical Assistant</span>
                 <span class="caret"></span>
             </button>
             <ul class="dropdown-menu">
@@ -43,8 +43,8 @@
                         <li class="accordion">
                             <a href="#"><i class="glyphicon glyphicon-calendar"></i><span> Appointments</span></a>
                             <ul class="nav nav-pills nav-stacked">
-                                <li><a href="./appointments.create.php">New Appointment</a></li>
-                                <li><a href="./appointments.php">All Appointments</a></li>
+                                <li><a href="./appointments.create.php"> Create Appointment</a></li>
+                                <li><a href="./appointments.php"> View Appointments</a></li>
                             </ul>
                         </li>
                         <li><a class="ajax-link" href="./patients.php"><i class="glyphicon glyphicon-user"></i><span> Patients</span></a></li>
