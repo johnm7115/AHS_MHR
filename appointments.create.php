@@ -5,7 +5,7 @@ if(!isset($_SESSION["userType"]))
     echo "Not logged in";
     die();
 }
-$pageTitle = "Create Appointment"
+$pageTitle = "Create Appointment";
 include_once 'header.php';
 
 if($_SESSION["userType"] == "clerk")
