@@ -5,7 +5,7 @@ if(!isset($_SESSION["userType"]))
     echo "Not logged in";
     die();
 }
-$pageTitle = "Patients";
+$pageTitle = "View Patient";
 include_once 'header.php';
 
 include_once 'menu.php';

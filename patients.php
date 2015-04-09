@@ -5,7 +5,7 @@ if(!isset($_SESSION["userType"]))
     echo "Not logged in";
     die();
 }
-$pageTitle = "Patients";
+$pageTitle = "Find Patient";
 include_once 'header.php';
 
 include_once 'menu.php';
@@ -20,7 +20,7 @@ include_once 'menu.php';
 <div class="row">
     <p class="col-md-6">
         Search for a Patient
-        <input class="form-control" value="">
+        <input class="form-control" value="Simon Kim">
         <a class="btn btn-primary" href="./patients.show.php">Search</a>
     </p>
 </div>
