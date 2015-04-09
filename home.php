@@ -11,9 +11,6 @@ elseif($_SESSION["userType"] == "clerk")
     $pageTitle = "Home";
     include_once "clerkHome.php";
 }
-<<<<<<< HEAD
-?>
-=======
 elseif($_SESSION["userType"] == "assistant")
 {
     $pageTitle = "Home";
@@ -25,4 +22,3 @@ elseif($_SESSION["userType"] == "professional")
     include_once "professionalHome.php";
 }
 ?>
->>>>>>> 7f048fa4047d7203076c0c9449c2c32b045003e5
