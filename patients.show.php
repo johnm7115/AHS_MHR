@@ -41,10 +41,10 @@ include_once 'menu.php';
                 <p><b>Birth date:</b> June 9, 1990</p>
                 <p><b>Address:</b> 123 Main St.</p>
                 <p><b>Postal Code:</b>T2G 2B4</p>
-                <p><b>Daytime Phone Number:</b> (403) 210 - 7625</p>
-                <p><b>Evening Phone Number:</b> (403) 555 - 1234</p>
+                <p><b>Daytime Phone Number:</b> 403-210-7625</p>
+                <p><b>Evening Phone Number:</b> 403-555-1234</p>
                 <p><b>Email address:</b> sjkim@null.com</p>
-                <p><b>Family Physician Name:</b> Dr. Sean Wang</p>
+                <p><b>Family Physician Name:</b> Dr. Karen Rose Wang</p>
                 <p class="text-right">
                     <a class="btn btn-info" href="patients.edit.php"><i class="glyphicon glyphicon-edit icon-white"></i>Edit</a>
                 </p>

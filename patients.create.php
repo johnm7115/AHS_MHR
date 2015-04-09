@@ -5,7 +5,7 @@ if(!isset($_SESSION["userType"]))
     echo "Not logged in";
     die();
 }
-$pageTitle = "Create Patient";
+$pageTitle = "Add Patient";
 include_once 'header.php';
 
 include_once 'menu.php';
@@ -40,7 +40,7 @@ include_once 'menu.php';
         First Name: <input type="text" class="form-control" name="firstname">
         <br>Middle Name: <input type="text" class="form-control" name="middlename">
         <br>Last Name: <input type="text" class="form-control" name="lastname"></p></div>
-        <input type="submit" value="Add Patient">
+        <input class="btn btn-primary" type="submit" value="Add Patient">
     </form>
 </div>
 <?php
