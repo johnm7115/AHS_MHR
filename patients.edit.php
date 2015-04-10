@@ -36,6 +36,7 @@ include_once 'menu.php';
                 Daytime Phone Number: <input type="tel" class="form-control" value="403-210-7625">
                 Evening Phone Number: <input type="tel" class="form-control" value="403-555-1234">
                 Email Address: <input type="text" class="form-control" value="sjkim@null.com">
+                Medical Information: <input type="text" class="form-control" value="allergic to peanuts, diabetic type B">
             </p></div>
         <hr>
         <div class="row"><h4 class="col-md-4">FAMILY PHYSICIAN NAME</h4></div>
