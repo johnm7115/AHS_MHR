@@ -40,7 +40,7 @@
                     <ul class="nav nav-pills nav-stacked main-menu">
                         <li class="nav-header">Go To</li>
                         <li><a class="ajax-link" href="./home.php"><i class="glyphicon glyphicon-home"></i><span> Home</span></a></li>
-                        <li><a class="ajax-link" href="./triage.php"><i class="glyphicon glyphicon-user"></i><span> Triage Observation</span></a></li>
+                        <li><a class="ajax-link" href="./triage.php"><i class="glyphicon glyphicon-eye-open"></i><span> Triage Observation</span></a></li>
                         <li class="accordion">
                             <a href="#"><i class="glyphicon glyphicon-calendar"></i><span> Appointments</span></a>
                             <ul class="nav nav-pills nav-stacked">
