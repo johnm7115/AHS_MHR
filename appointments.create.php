@@ -8,10 +8,7 @@ if(!isset($_SESSION["userType"]))
 $pageTitle = "Create Appointment";
 include_once 'header.php';
 
-if($_SESSION["userType"] == "clerk")
-{
-    include "clerkMenu.php";
-}
+include_once 'menu.php';
 ?>
 <div>
     <ul class="breadcrumb">

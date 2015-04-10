@@ -51,6 +51,9 @@ include_once 'menu.php';
             </div>
         </div>
     </div>
+<?php
+if($_SESSION["userType"] == "professional" || $_SESSION["userType"] == "assistant")
+{ ?> 
     <div class="box">
         <div class="box-inner">
             <div class="box-header well" data-original-title="">
@@ -83,17 +86,19 @@ include_once 'menu.php';
                     <br><br>Attachments: &lt;xray_results_summary.pdf&gt;, &lt;IMG_01234.jpg&gt;, &lt;IMG_01235.jpg&gt;
                 </div>
                 <hr>
-                
-                
-                
+<?php
+if($_SESSION["userType"] == "professional")
+{ ?>
                 <p class="text-right">
                     <a class="btn btn-info" href="records.php"><i class="glyphicon glyphicon-eye-open icon-white"></i> View full history</a>
                     <a href="records.create.php" class="btn btn-success"><i class="glyphicon glyphicon-plus-sign"></i> Create Record</a>
                 </p>
+<?php } ?>
             </div>
         </div>
     </div>
 </div>
+<?php } ?>
 <?php
 include_once 'footer.php';
 ?>
