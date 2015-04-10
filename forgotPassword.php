@@ -29,12 +29,18 @@
                 </div>
                 <div class="box-content">
                     <p>Please enter your work email in the box below and you will receive instructions on how to change your password:</p>
-                    <div class="input-group input-group-lg">
-                        <span class="input-group-addon"><i class="glyphicon glyphicon-envelope red"></i></span>
-                        <input id="inputIcon" type="text" class="form-control" placeholder="Your Email Address">
+                   	<div class="col-md-6">
+                    	<div class="input-group input-group-lg">
+                        	<span class="input-group-addon"><i class="glyphicon glyphicon-envelope red"></i></span>
+                        	<input id="inputIcon" type="text" class="form-control" placeholder="Your Email Address">
+						</div>
                     </div>
+                        <input class="btn btn-primary" type="submit" value="Send Email">
+                        </br></br>
+                        
                 </div>
             </div>
+        </div>
 
 
 
