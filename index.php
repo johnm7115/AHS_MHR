@@ -41,20 +41,40 @@
         <div class="col-lg-6">
             <h1>About Us</h1>
             <p>
-                
+        
             </p>
         </div>
         <div class="col-lg-6" style="border-left: 3px solid #bbbbbb;">
             <h1>Login</h1>
-            <?php echo isset($attemptFailed) ? "Invalid Credentials." : ""; ?>
-            <!-- Temporary -->
-            <form method="POST" class="col-md-8">
-                <label for="username">Username</label>
-                <input class="form-control" type="text" name="username">
-                <label for="password">Password</label>
-                <input class="form-control" type="password" name="password"><br />
-                <input class="btn btn-primary" type="submit" value="Submit">
-            </form>
-            <p>Use username {clerk, assistant, professional, ...} and any password to login.</p>
-        
+
+<div class="well col-md-9 center login-box">
+	<div class="alert alert-info">
+		<?php echo isset($attemptFailed) ? "Invalid Credentials." : ""; ?>
+		Please login with your Username (clerk/ assistant / professional) and Password.
+	</div>
+		<form class="form-horizontal" action="home.php" method="post">
+			<fieldset>
+				<div class="input-group input-group-lg">
+					<span class="input-group-addon"><i class="glyphicon glyphicon-user red"></i></span>
+						<input type="text" class="form-control" placeholder="Username">
+				</div>
+				<div class="clearfix"></div><br>
+				<div class="input-group input-group-lg">
+					<span class="input-group-addon"><i class="glyphicon glyphicon-lock red"></i></span>
+						<input type="password" class="form-control" placeholder="Password">
+				</div>
+				<div class="clearfix"></div>
+				<div class="input-prepend">
+					<label class="remember" for="remember"><input type="checkbox" id="remember"> Remember me</label>
+					</br>
+					<a href="./forgotPassword.php">Forgot password?</a>
+				</div>
+				<div class="clearfix"></div>
+					<p class="center col-md-5">
+						<button type="submit" class="btn btn-primary">Login</button>
+					</p>
+			</fieldset>
+		</form>
+	</div>
+     
 <?php include "footer.php"; ?>
