@@ -36,7 +36,7 @@
 </div>
 <!-- topbar ends -->
 
-<div class="col-md-offset-1 col-md-10">
+<div class="ch-container">
     <div class="row">
         <div class="col-lg-6">
             <h1>About Us</h1>
@@ -48,7 +48,7 @@
             <h1>Login</h1>
             <?php echo isset($attemptFailed) ? "Invalid Credentials." : ""; ?>
             <!-- Temporary -->
-            <form method="POST">
+            <form method="POST" class="col-md-8">
                 <label for="username">Username</label>
                 <input class="form-control" type="text" name="username">
                 <label for="password">Password</label>
