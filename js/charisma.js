@@ -298,39 +298,39 @@ function docReady() {
         defaultDate: '2015-04-10',
         events: [
             {
-                title: 'All Day Event',
+                title: 'Neuroscience Conference',
                 start: '2015-04-01'
             },
             {
-                title: 'Long Event',
+                title: 'Heart Surgery',
                 start: '2015-04-07',
                 end: '2015-04-10'
             },
             {
                 id: 999,
-                title: 'Repeating Event',
+                title: 'Blood work',
                 start: '2015-04-09T16:00:00'
             },
             {
                 id: 999,
-                title: 'Repeating Event',
+                title: 'Imaging maintenance',
                 start: '2015-04-16T16:00:00'
             },
             {
-                title: 'Meeting',
+                title: 'Staff meeting',
                 start: '2015-04-12T10:30:00',
                 end: '2015-04-12T12:30:00'
             },
             {
-                title: 'Lunch',
+                title: 'X-Ray Image',
                 start: '2015-04-12T12:00:00'
             },
             {
-                title: 'Birthday Party',
+                title: 'Dr. Harvey Appointment',
                 start: '2015-04-13T07:00:00'
             },
             {
-                title: 'Click for Google',
+                title: 'Training for Nurses',
                 url: 'http://google.com/',
                 start: '2015-04-28'
             }
