@@ -44,7 +44,7 @@ include_once 'menu.php';
                 <p><b>Daytime Phone Number:</b> 403-210-7625</p>
                 <p><b>Evening Phone Number:</b> 403-555-1234</p>
                 <p><b>Email address:</b> sjkim@null.com</p>
-                <p><b>Medical Information:</b> allergic to peanuts, diabetic type B
+                <p><b>Medical Information:</b> allergic to peanuts, diabetic type B</p>
                 <p><b>Family Physician Name:</b> Dr. Karen Rose Wang</p>
                 <p class="text-right">
                     <a class="btn btn-info" href="patients.edit.php"><i class="glyphicon glyphicon-edit icon-white"></i>Edit</a>

@@ -52,10 +52,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -71,10 +71,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -90,10 +90,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -109,10 +109,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -128,10 +128,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -147,10 +147,10 @@ include_once 'menu.php';
 										<span class="label-default label label-default">Scheduled</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -166,10 +166,10 @@ include_once 'menu.php';
 										<span class="label-default label label-default">Scheduled</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -185,10 +185,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -204,10 +204,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -223,10 +223,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -242,10 +242,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -261,10 +261,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -280,10 +280,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -299,10 +299,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -318,10 +318,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -337,10 +337,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -356,10 +356,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -375,10 +375,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -394,10 +394,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -413,10 +413,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -432,10 +432,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -451,10 +451,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -470,10 +470,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -489,10 +489,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -508,13 +508,13 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
-										<a class="btn btn-danger" href="#">
+										<a class="btn btn-danger" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-trash icon-white"></i>Delete
 										</a>
 									</td>
@@ -527,10 +527,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
@@ -546,10 +546,10 @@ include_once 'menu.php';
 										<span class="label-default label label-success">Confirmed</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-										<a class="btn btn-info" href="#">
+										<a class="btn btn-info" href="./appointments.edit.php">
 											<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 										</a>
 										<a class="btn btn-danger" href="#">
@@ -565,10 +565,10 @@ include_once 'menu.php';
 										<span class="label-warning label label-default">Pending</span>
 									</td>
 									<td class="center ">
-										<a class="btn btn-success" href="#">
+										<a class="btn btn-success" href="./appointments.show.php">
 											<i class="glyphicon glyphicon-zoom-in icon-white"></i>View
 										</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="./appointments.edit.php">
 										<i class="glyphicon glyphicon-edit icon-white"></i>Edit
 									</a>
 									<a class="btn btn-danger" href="#">
