@@ -48,6 +48,10 @@ include_once 'menu.php';
                 <p><b>Family Physician Name:</b> Dr. Karen Rose Wang</p>
                 <p class="text-right">
                     <a class="btn btn-info" href="patients.edit.php"><i class="glyphicon glyphicon-edit icon-white"></i>Edit</a>
+                    <?php
+                        if($_SESSION["userType"] == "clerk")
+                        { ?><a class="btn btn-info" href=""><i class="glyphicon glyphicon-eye-open icon-white"></i> Add to Waiting List</a>
+                    <?php } ?>
                 </p>
             </div>
         </div>

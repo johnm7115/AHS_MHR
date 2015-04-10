@@ -49,4 +49,5 @@
 </script>
 <!-- application script for Charisma demo -->
 <script src="js/charisma.js"></script>
+<script src="js/drag.js"></script>
 </html>
