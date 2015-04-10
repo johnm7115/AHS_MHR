@@ -60,6 +60,32 @@ include_once 'menu.php';
                 </div>
             </div>
             <div class="box-content">
+                <div>
+                    <h4> Summary: Pain in kidneys </h4>
+                    <h5>January 4, 2015 </h5>
+                    Pain due to kidney stones, kidney stones removed 
+                    <br><br>Attachments: &lt;lab_results_summary.pdf&gt;, &lt;IMG_1111.jpg&gt;
+                </div>
+                <hr>
+                
+                <div>
+                    <h4> Abdominal pain and vomiting </h4>
+                    <h5>October 1, 2014  </h5>
+                    Pain due to stomach poisoning, prescribed Imodium
+                    <br><br>Attachments: none
+                </div>
+                <hr>
+                
+                <div>
+                    <h4> Pain in right ankle </h4>
+                    <h5>October 1, 2014  </h5>
+                    Pain due to fractured right ankle, prescribed Tylenol with Codeine #3
+                    <br><br>Attachments: &lt;xray_results_summary.pdf&gt;, &lt;IMG_01234.jpg&gt;, &lt;IMG_01235.jpg&gt;
+                </div>
+                <hr>
+                
+                
+                
                 <p class="text-right">
                     <a class="btn btn-info" href="records.php"><i class="glyphicon glyphicon-eye-open icon-white"></i> View full history</a>
                     <a href="records.create.php" class="btn btn-success"><i class="glyphicon glyphicon-plus-sign"></i> Create Record</a>
