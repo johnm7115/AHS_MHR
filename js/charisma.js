@@ -295,44 +295,44 @@ function docReady() {
             center: 'title',
             right: 'month,agendaWeek,agendaDay'
         },
-        defaultDate: '2014-06-12',
+        defaultDate: '2015-04-10',
         events: [
             {
                 title: 'All Day Event',
-                start: '2014-06-01'
+                start: '2015-04-01'
             },
             {
                 title: 'Long Event',
-                start: '2014-06-07',
-                end: '2014-06-10'
+                start: '2015-04-07',
+                end: '2015-04-10'
             },
             {
                 id: 999,
                 title: 'Repeating Event',
-                start: '2014-06-09T16:00:00'
+                start: '2015-04-09T16:00:00'
             },
             {
                 id: 999,
                 title: 'Repeating Event',
-                start: '2014-06-16T16:00:00'
+                start: '2015-04-16T16:00:00'
             },
             {
                 title: 'Meeting',
-                start: '2014-06-12T10:30:00',
-                end: '2014-06-12T12:30:00'
+                start: '2015-04-12T10:30:00',
+                end: '2015-04-12T12:30:00'
             },
             {
                 title: 'Lunch',
-                start: '2014-06-12T12:00:00'
+                start: '2015-04-12T12:00:00'
             },
             {
                 title: 'Birthday Party',
-                start: '2014-06-13T07:00:00'
+                start: '2015-04-13T07:00:00'
             },
             {
                 title: 'Click for Google',
                 url: 'http://google.com/',
-                start: '2014-06-28'
+                start: '2015-04-28'
             }
         ]
     });
