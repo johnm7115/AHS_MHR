@@ -52,16 +52,16 @@
 		<?php echo isset($attemptFailed) ? "Invalid Credentials." : ""; ?>
 		Please login with your Username (clerk/ assistant / professional) and Password.
 	</div>
-		<form class="form-horizontal" action="home.php" method="post">
+		<form class="form-horizontal" method="POST">
 			<fieldset>
 				<div class="input-group input-group-lg">
 					<span class="input-group-addon"><i class="glyphicon glyphicon-user red"></i></span>
-						<input type="text" class="form-control" placeholder="Username">
+                    <input type="text" class="form-control" name="username" placeholder="Username">
 				</div>
 				<div class="clearfix"></div><br>
 				<div class="input-group input-group-lg">
 					<span class="input-group-addon"><i class="glyphicon glyphicon-lock red"></i></span>
-						<input type="password" class="form-control" placeholder="Password">
+                    <input type="password" class="form-control" name="password" placeholder="Password">
 				</div>
 				<div class="clearfix"></div>
 				<div class="input-prepend">
